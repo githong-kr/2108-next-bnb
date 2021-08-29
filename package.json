@@ -1,0 +1,8 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:githong-kr/2108-next-bnb.git",
+  "author": "bale <githong@kakao.com>",
+  "license": "MIT"
+}
